@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1649193194 source:c:\projeler\konyar4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<ctype.h>
+	<windows.h>
+
